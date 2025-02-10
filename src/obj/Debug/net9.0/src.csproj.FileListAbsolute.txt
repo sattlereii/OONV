@@ -1,0 +1,14 @@
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\bin\Debug\net9.0\src.exe
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\bin\Debug\net9.0\src.deps.json
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\bin\Debug\net9.0\src.runtimeconfig.json
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\bin\Debug\net9.0\src.dll
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\bin\Debug\net9.0\src.pdb
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\obj\Debug\net9.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\obj\Debug\net9.0\src.AssemblyInfoInputs.cache
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\obj\Debug\net9.0\src.AssemblyInfo.cs
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\obj\Debug\net9.0\src.csproj.CoreCompileInputs.cache
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\obj\Debug\net9.0\src.dll
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\obj\Debug\net9.0\refint\src.dll
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\obj\Debug\net9.0\src.pdb
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\obj\Debug\net9.0\src.genruntimeconfig.cache
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\obj\Debug\net9.0\ref\src.dll
