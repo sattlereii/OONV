@@ -12,3 +12,4 @@ C:\Users\elisk\Desktop\Škola\OONV\HRA\src\obj\Debug\net9.0\refint\src.dll
 C:\Users\elisk\Desktop\Škola\OONV\HRA\src\obj\Debug\net9.0\src.pdb
 C:\Users\elisk\Desktop\Škola\OONV\HRA\src\obj\Debug\net9.0\src.genruntimeconfig.cache
 C:\Users\elisk\Desktop\Škola\OONV\HRA\src\obj\Debug\net9.0\ref\src.dll
+C:\Users\elisk\Desktop\Škola\OONV\HRA\src\obj\Debug\net9.0\src.sourcelink.json
